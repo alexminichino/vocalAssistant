@@ -1,5 +1,7 @@
 {
   "name": "vocalAssistant",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

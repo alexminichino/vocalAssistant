@@ -10,7 +10,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "importHelpers": true,
-    "target": "es2015",
+    "target": "es5", // fix => https://forum.ionicframework.com/t/ionic-cordova-build-get-stuck-at-generating-es5-bundles-for-differential-loading/180202/4
     "typeRoots": [
       "node_modules/@types"
     ],
