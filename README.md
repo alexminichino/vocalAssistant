@@ -1,9 +1,9 @@
 # My Vocal Assistant
 This project is a vocal assistant created using Google DialogFlow and Ionic Angular.
-I created also a simple [guide]() related at this project.
+I created also a simple [guide](https://medium.com/@alexminichino/how-to-create-a-vocal-assistant-or-chatbot-with-ionic-angular-and-google-dialogflow-8d89f16ffc1c) related at this project.
 
 ## Installation
-The app needs to DialogFlow agent to work, you can follow the first part of my simple guide on [medium.com]() to create one.
+The app needs to DialogFlow agent to work, you can follow the first part of my simple guide on [medium.com](https://medium.com/@alexminichino/how-to-create-a-vocal-assistant-or-chatbot-with-ionic-angular-and-google-dialogflow-8d89f16ffc1c) to create one.
 
 When your agent is working, you need to copy your API_KEY in `environments/environments.ts` file like follwing:
 ```
